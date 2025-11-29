@@ -3,6 +3,7 @@ As a WordPress and Shopify specialist, I focus on building clean, modern, and hi
 I work with clients who need reliable website solutions, whether that’s a new WordPress site, a fully optimized Shopify store, or a complete redesign to improve performance and usability. Every project is guided by clarity, communication, and attention to detail, ensuring the final product aligns with your brand and supports your business goals.
 
 Core areas of expertise:
+
 • WordPress development (Elementor, custom themes, full builds)
 
 • Shopify store setup, theme customization, and integrations.
