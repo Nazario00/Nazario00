@@ -4,10 +4,15 @@ I work with clients who need reliable website solutions, whether that’s a new 
 
 Core areas of expertise:
 • WordPress development (Elementor, custom themes, full builds)
+
 • Shopify store setup, theme customization, and integrations.
+
 • E-commerce optimization with a focus on conversions.
+
 • Professional, brand-aligned page layouts.
+
 • Mobile responsiveness, speed optimization, and SEO-friendly structure
+
 
 I create websites and stores that are visually polished, easy to navigate, and built for long-term performance. 
 If you’re looking for a developer who is committed to delivering high-quality work and a smooth, professional collaboration, I’d be glad to support your project.
